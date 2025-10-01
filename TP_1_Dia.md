@@ -7,7 +7,8 @@
 
   Le Design Centré Utilisateur est une façon de concevoir le processus en mettant l'utilisateur final au centre de ce processus. Chaque partie du processus a pour but de comprendre les besoins, objectifs et limites de l'utilisateur dans son contexte d'utilisation, le tout pour instaurer une interface adaptée celui-ci.
 Nous sommes à l'étape de conception et prototypage avec le développement de maquettes haute fidélité sur Figma qui offre un prototype interactif permettant d'interagir directement avec l'interface tout au long son développement.
-<img width="400" alt="Capture d'écran 2025-09-29 234920" src="https://github.com/user-attachments/assets/c848e62e-5791-4e67-941a-628012e3b1d3" />
+<img width="400" alt="Capture d'écran 2025-09-29 234920" src="https://github.com/user-attachments/assets/8413d0c7-dcf4-48b9-8028-4151a6f122b5" />
+
 
 
 *- Ajoutez à votre projet Figma des observateurs. Quel principe fondamental du UserCentered Design (UCD) appliquez-vous ?*
