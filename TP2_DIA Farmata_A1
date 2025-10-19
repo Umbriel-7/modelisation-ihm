@@ -1,4 +1,4 @@
-Déterminer les éléments qui vont dans le sens des lois de Gestalt
+*Déterminer les éléments qui vont dans le sens des lois de Gestalt*
 
 Les lois de la Gestalt définissent plusieurs principes de perception visuelle sur l'organisation des éléments par le cerveau humain.
 Le principe de proximité : Les éléments proches sont perçus comme liés. Dans ce TP, cela se manifeste dans l'espace des commentaires (Social-proof list) où la liste des différents avis est perçue comme un ensemble dédié aux témoignages.
@@ -8,7 +8,7 @@ Le principe de clôture : Les formes incomplètes peuvent être complétées men
 Le principe de figure/fond : Il permet une distinction entre l'image de fond et l'élément principal. On observe dans le TP une image de fond ayant un contraste assez bas, ce qui permet de distinguer facilement les éléments importants de la page.
 
 
-Qu’est-ce qui est mis en place pour réduire la charge cognitive ?
+*Qu’est-ce qui est mis en place pour réduire la charge cognitive ?*
 
 La charge cognitive représente l'effort mental que l'utilisateur doit fournir pour comprendre et utiliser l'interface. On parvient à un bon design en simplifiant les parcours, en hiérarchisant l'information et en évitant la surcharge visuelle.
 Dans le TP, cela se traduit par :
@@ -17,7 +17,7 @@ Le positionnement du nom de la marque en haut de la page dans une police plus im
 L'espacement entre les différents blocs d’informations pour éviter une surcharge visuelle.
 
 
-Quels éléments font partie de la charte graphique de l’UI ?
+*Quels éléments font partie de la charte graphique de l’UI ?*
 
 L'UI (User Interface - Interface Utilisateur) correspond à la conception de l'interface, c’est-à-dire la partie visuelle et interactive d'un produit. Son but est de faciliter la navigation de l'utilisateur en répondant à plusieurs objectifs, comme on peut le voir sur le design du TP :
 - Rendre l'interface claire : En disposant les éléments selon une hiérarchie claire, en les espaçant et en utilisant une police lisible pour tous.
@@ -25,7 +25,7 @@ L'UI (User Interface - Interface Utilisateur) correspond à la conception de l'i
 - cohérente : Dans la mise en page, en suivant un ordre logique entre les éléments et en plaçant les boutons là où leur fonction est attendue.
 
 
-Pensez-vous que cette interface sera lue via le F-pattern, le Z-pattern ou le Layer-Cake Pattern ? (justifier sa réponse)
+*Pensez-vous que cette interface sera lue via le F-pattern, le Z-pattern ou le Layer-Cake Pattern ? (justifier sa réponse)*
 
 Les différents patterns représentent des modes de lecture de l’utilisateur sur un écran, définis par des études sur le suivi oculaire.
 Le F-pattern : Souvent utilisé pour les pages à fort contenu textuel. La lecture se fait horizontalement sur le haut, puis sur une ligne plus courte, et se termine par un balayage vertical rapide sur la gauche.
@@ -34,25 +34,25 @@ Le Layer-cake Pattern : Modèle où l'utilisateur scanne principalement les titr
 Dans l'interface montrée, l'utilisateur a de fortes chances de suivre un Z-pattern car On retrouve en haut à gauche le logo et à droite les boutons (panier, profil). Le balayage en diagonale mène au titre, à la phrase d'accroche et aux images, créant un ancrage visuel dans les produits proposés. Le balayage se terminera sur le bouton large "Découvrir la collection", même s'il ne se trouve pas exactement en bas à droite.
 
 
-Quels sont les trust badges mis en place dans cette interface ?
+*Quels sont les trust badges mis en place dans cette interface ?*
 
 Les trust badges (badges de confiance) sont des éléments visuels (logos, certifications, labels) présents sur la page pour rassurer l'utilisateur sur la légitimité, la sécurité et la fiabilité du site/service.
 Dans l'interface proposée, on retrouve le logo de la marque, les avis de différents utilisateurs, les régulations GDPR (règlement général sur la protection des données) et les informations sur la protection des données en bas de page en plus d'autres sources de légitimité comme les liens vers les conditions d'utilisation et les informations légales.
 
 
-Le nudge est-il utilisé sur cette interface ? (justifier sa réponse)
+*Le nudge est-il utilisé sur cette interface ? (justifier sa réponse)*
 
 Le nudge (incitation douce) est une technique visant à orienter le comportement de l'utilisateur sans contrainte ni interdiction. Elle est représentée par des incitations visuelles, textuelles ou contextuelles pour encourager une action souhaitée.
 Oui, on retrouve un nudge sur la page d'un produit spécifique (Single Product Page) qui affiche une promotion commerciale à durée limitée. Cette incitation est renforcée par un feedback immédiat montrant l'impact de l'action, permettant ainsi à l'utilisateur de faire des économies en achetant plusieurs fois le même produit.
 
 
-Existe-t-il des zones mortes sur cette interface ?
+*Existe-t-il des zones mortes sur cette interface ?*
 
 Les zones mortes, ou « dead zones », sont des parties d'un élément ou de l'écran qui ne sont pas interactives.
 Dans l'interface, elles représentent l'espace négatif (ou blancs) entre les différents blocs d’informations où l’on peut apercevoir le fond.
 
 
-Existe-t-il des feedbacks positifs, négatifs ou d’attente sur cette interface ?
+*Existe-t-il des feedbacks positifs, négatifs ou d’attente sur cette interface ?*
 
 Le feedback représente la réponse du système à l'action effectuée par l'utilisateur.
 Dans l'interface du design, on en retrouve plusieurs, comme le bouton « Discover our whole selection » qui change de couleur lorsque l'on clique dessus (feedback visuel positif).
