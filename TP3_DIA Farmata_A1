@@ -1,0 +1,79 @@
+Ben Shneiderman
+
+— Concernant vos interfaces, respectez-vous les 8 règles d’or de l’ergonomie des interfaces ? 
+
+Les huit règles d’or de Shneiderman à suivre dans chacune de nos interfaces sont : la recherche de cohérence, de proposer des raccourcis aux utilisateurs expérimentés, d’apporter pour chaque action un feedback informatif, concevoir le dialogue pour aboutir à une fin claire d’interaction (clôture), offrir une prévention des erreurs et des moyens simples afin de les corriger, faire en sorte que l’utilisateur garde le contrôle et éviter les situations imprévues, rendre les informations visibles et accessible pour diminuer la charge de la mémoire à court terme, garder une simplicité esthétique et minimaliste.
+
+
+— À quoi fait référence la notion d’interface directe ? 
+
+La notion d’interface directe représente l’interaction possible avec des objets visibles sur un écran comme les barres de recherche, les boutons ou encore une icône.
+
+
+— Qu’est-ce qui a été mis en place dans l’exemple du cours (lien ci-dessus) conformément à ISO 9241-11 et à ISO 9241-210 ? 
+
+La norme ISO 9241-11 représente la notion d’utilisabilité avec les concepts d’efficacité, d’efficience et de satisfaction. Une interaction est efficace lorsqu’elle permet à l’utilisateur d’atteindre son objectif. Elle est efficace quand elle permet d'atteindre un objectif en un minimum d’efforts, de temps et de ressource. Et est satisfaisante par sa procuration d’une expérience agréable pour l’utilisateur sans frustration ni inconfort.
+
+Dans l’exemple du cours, le design nous présente directement le but de l’application qui est de la vente de vêtements et le bouton “entrer » sur le landing screen 2 est direct sur son objectif afin d’entrer dans la page d'accueil de l’application, ce qui remplit le concept d’efficacité. Celui d’efficience est respecté par l’efficacité de la navigation possible qui propose des étapes claires et directes selon l’objectif de l’utilisateur. Enfin, la satisfaction de l’utilisateur pourrait apparaître due au design qui montre des preuves sociales et à l’identité/le style «  Cool »  qui est mis en avant.
+
+La ISO 9241-210 est celle représentant les principes de la conception centrée utilisateur.
+Dans l’exemple, on peut observer que le design est celui attendu de la part d’une application de shopping (images de produits, proposition de les acheter, avis de clients) et lui permettre une expérience agréable.
+
+— Qu’est-ce que vous avez mis en place dans votre projet ( votre application ) pour répondre à ces normes ?
+
+Dans mon projet personnel, j’ai pu tester plusieurs façons de mettre en place les éléments d’une application. J’ai pu par exemple créer une page d'atterrissage avant d’orienter l’utilisateur directement sur la page d'accueil. Une présentation simple et représentative du but de l’application (librairie en ligne) est l’un des objectifs à suivre tout comme la mise en place d'éléments permettant une interaction directe qui permet à l’utilisateur d’atteindre son but recherché sans perdre de temps.
+
+
+— Que signifie qu’une interface doit être satisfaisante ?
+
+La question a été répondue plus haut avec les normes ISO et montrait qu’une interface satisfaisante est : “satisfaisante par sa procuration d’une expérience agréable pour l’utilisateur sans frustration ni inconfort”.
+
+
+— Quelle est la différence entre l’efficacité et l’efficience ( dans l’interaction Homme-Machine ) ?
+
+L’efficience décrit comment l’utilisateur a atteint son but (temps utilisé, effort cognitif ou physique) alors que l'efficacité démontre si le but a été atteint ou non.
+
+
+— Quelles sont les notions qui différencient l’auteur du livre The Design of Everyday Things (1988) de Shneiderman ?
+
+Les notions de Don Norman qui le différencie de Sheinerman sont plutôt orientées sur la perception et la compréhension de l’utilisateur tandis que Shneiderman se focalise surtout sur l’optimisation de l’interface. Norman évoque les principes d’affordance, de feedback, visibilité, modèle conceptuel et de prévention des erreurs.
+
+
+Above the fold
+
+— Quel est le contenu à privilégier au-dessus du fold ?
+
+Le contenu à privilégier est celui qui créera la première impression et construira les notions de crédibilité, pertinence et réassurance chez l’utilisateur. On privilégie alors un ATF avec un titre de proposition de valeur et un sous-titre de contextualisation. On y ajoute une action prioritaire/CTA (Call To Action) qui est l’action où l’on souhaite orienter le plus l’utilisateur. À ça s’ajoute l’usage d’un visuel significatif, des preuves rapides (logos, avis trust badges) et une proposition de navigation concise avec une barre de recherche si sa présence est pertinente.
+
+
+— Qu’est-ce que le paralysis of choice
+
+Le paralysis of choice, également appelé surcharge de choix, décrit une tendance chez les individus à se sentir dépassés ou incapables de prendre une décision lorsqu’ils sont présentés à trop de choix/options possibles.
+
+
+— Quels sont les anti-patterns d’un ATF ?
+
+Il y a 5 anti-patterns à éviter. Le premier est la présence de carrousels auto défilant. On retrouve également le fait d’avoir trop d’options, les CTA ambigus, les héros décoratifs et les bannières tardives.
+
+
+— Qu’est-ce qui a été fait dans l’exemple du cours pour améliorer la performance métier ?
+
+La performance métier est une exposition précoce au CTA, signaux de confiance et au contenu principal afin d’optimiser l’ATF.
+Dans l’exemple donné, on peut citer l'exposition au CTA principal qui est le bouton «  Join-us » placé au centre de l’ATF avec une couleur contrasté par rapport au reste de la page, ce qui permet une visibilité presque immédiate pour l’utilisateur. On retrouve également comme signaux de confiance des trust badges (preuves sociales) comme le paiement sécurisé et le nombre de clients. Et enfin, on observe la présence du contenu principal qui est le titre “SWAG » accompagné du sous titre et des illustrations de produits comme visuel signifiant.
+
+
+— Prioriser au-dessus, développer en dessous (progressive disclosure). Qu’implique cette réalité du fold ? Qu’est-ce que vous mettez en place pour y faire face ? 
+
+Cette réalité implique qu’il faut se servir du ATF comme zone d'ancrage pour l’utilisateur. Il faut alors bien utiliser les contenus à privilégier et éviter les anti-patterns. L’ATF sert d’introduction au service et doit faire comprendre par implication que plus d'informations sont disponibles en dessous de cette zone.
+
+Affordance
+
+— Quel est le rôle du design visuel dans le contexte d’une recherche d’affordance ? 
+
+Il permet de rendre l'utilisation d’un élément logique de par son apparence. Par exemple, un bouton avec une taille, un contraste et une couleur adapté fera plus de sens à l’utilisateur. Un feedback comme un hoover peut ajouter intuitivement au but recherché.
+
+Design tokens
+
+— Est-ce que des design tokens sont définis dans le Figma ci-dessus ? 
+
+Oui, on peut retrouver la police, les contours blancs autour des photos, leurs formats avec les angles arrondis ou encore la couleur des boutons principaux.
